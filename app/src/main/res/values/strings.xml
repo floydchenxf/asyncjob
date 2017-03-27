@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">asyncJob</string>
+    <string name="net_null">哎呀，怎么没网络了，请联网后试试！</string>
+</resources>
